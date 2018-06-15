@@ -1,18 +1,19 @@
 /**
 ******************************************************************************
-* @file    ReadMe.txt	binÎÄ¼þÉú³ÉÁ¬½Ó 
-* @author  KK			ÀýÈç======>C:\Keil_v5\ARM\ARMCC\bin\fromelf.exe --bin -o A-2220.bin  ./Objects/HAL_Demo.axf
+* @file    ReadMe.txt	binæ–‡ä»¶ç”Ÿæˆè¿žæŽ¥ 
+* @author  KK			ä¾‹å¦‚======>C:\Keil_v5\ARM\ARMCC\bin\fromelf.exe --bin -o A-2220.bin  ./Objects/HAL_Demo.axf
 * @date    2018.05.02
-* @brief   ÓÃÓÚIAPÒÆÖ²Ê¹ÓÃ
+* @brief   ç”¨äºŽIAPç§»æ¤ä½¿ç”¨
 ******************************************************************************
 */
 20180519
-1¡¢³õÊ¼¹¤³ÌÓÃÓÚÒÆÖ²iap£¬Í¨¹ý´®¿Ú½øÐÐÉý¼¶
+1ã€åˆå§‹å·¥ç¨‹ç”¨äºŽç§»æ¤iapï¼Œé€šè¿‡ä¸²å£è¿›è¡Œå‡çº§
 20180521
-1¡¢Ìí¼ÓIAP´®¿Ú¿ÕÏÐÖÐ¶Ï
-2¡¢IAPÉý¼¶³ÌÐò²âÊÔ³É¹¦
-3¡¢Ìí¼Ó485Í¨ÐÅ£¬²âÊÔ³É¹¦
-
+1ã€æ·»åŠ IAPä¸²å£ç©ºé—²ä¸­æ–­
+2ã€IAPå‡çº§ç¨‹åºæµ‹è¯•æˆåŠŸ
+3ã€æ·»åŠ 485é€šä¿¡ï¼Œæµ‹è¯•æˆåŠŸ
+20180615
+1ã€æ·»åŠ IAPè·³è½¬è¯´æ˜Ž
 
 
 
